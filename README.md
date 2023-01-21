@@ -9,4 +9,4 @@ https://github.com/enginsubasi/esmodio/wiki
 
 <img src="https://github.com/enginsubasi/esmodio/blob/main/img/20230104_004128_Img.jpg" width="50%" height="50%">
 
-<img src="https://github.com/enginsubasi/esmodio/blob/main/img/20230104_004128_Img2.jpg" width="50%" height="50%">
+<img src="https://github.com/enginsubasi/esmodio/blob/main/img/20230104_004128-Img2.jpg" width="50%" height="50%">
