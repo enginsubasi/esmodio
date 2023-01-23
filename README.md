@@ -27,7 +27,7 @@ Following functions are enabled to use this device.
 
 # Applications
 
-* Test platforms, test benchs
+* Test platforms, test benches
 * Plant automation
 * Generic automation
 * PC controlled platforms
